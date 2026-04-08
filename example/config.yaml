@@ -7,8 +7,8 @@ page:
 seo:
   title: "Agent Skills 教學講義｜Codex、Markdown 模板與工作流設計"
   description: "分享如何把一次性的 AI 網頁生成流程，進一步設計成可維護、可重複執行的 Agent Skill。"
-  image: "https://example.com/example/assets/og-example.jpg"
-  url: "https://example.com/example/"
+  image: "https://dean9703111.github.io/agent-skill-lecture-builder/example/assets/og-example.jpg"
+  url: "https://dean9703111.github.io/agent-skill-lecture-builder/example/"
 
 quotes:
   opening:

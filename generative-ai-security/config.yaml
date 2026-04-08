@@ -7,8 +7,8 @@ page:
 seo:
   title: "生成式 AI 資訊安全實戰｜案例拆解與防護藍圖"
   description: "聚焦生成式 AI 在企業導入時最常見的資安風險，提供案例、檢核點與落地流程。"
-  image: "https://example.com/generative-ai-security/assets/og-generative-ai-security.jpg"
-  url: "https://example.com/generative-ai-security/"
+  image: "https://dean9703111.github.io/agent-skill-lecture-builder/generative-ai-security/assets/og-generative-ai-security.jpg"
+  url: "https://dean9703111.github.io/agent-skill-lecture-builder/generative-ai-security/"
 
 quotes:
   opening:
