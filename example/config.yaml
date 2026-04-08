@@ -1,0 +1,19 @@
+page:
+  title: "Agent Skills 教學講義｜把 AI 講義做成可維護的網頁"
+  badge: "AI Workflow · Codex · Agent Skills"
+  hero_title: "從靈感到模板<br>把 AI 講義做成可長期維護的網頁"
+  subtitle: "從終端機安裝 Codex、生成第一版 HTML，到把流程封裝成 Agent Skill，建立可重複使用的教學講義工作流。"
+
+seo:
+  title: "Agent Skills 教學講義｜Codex、Markdown 模板與工作流設計"
+  description: "分享如何把一次性的 AI 網頁生成流程，進一步設計成可維護、可重複執行的 Agent Skill。"
+  image: "https://example.com/example/assets/og-example.jpg"
+  url: "https://example.com/example/"
+
+quotes:
+  opening:
+    text: "真正有價值的，不是生成得多快，<br>而是生成後你還能不能輕鬆維護。"
+  closing:
+    text: >
+      當你開始用模板、腳本與 Skill 設計 AI 工作流，<br>
+      Vibe Coding 才會從一次性的驚喜，變成可長期積累的能力。

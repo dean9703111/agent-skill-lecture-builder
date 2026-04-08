@@ -1,0 +1,19 @@
+page:
+  title: "生成式 AI 資訊安全｜從風險辨識到企業落地防護"
+  badge: "Cybersecurity · GenAI Governance"
+  hero_title: "生成式 AI 資訊安全<br>用真實案例建立可執行的防線"
+  subtitle: "從資料外洩、提示詞注入、供應鏈與治理四大面向，建立團隊可持續運作的 GenAI 安全基線。"
+
+seo:
+  title: "生成式 AI 資訊安全實戰｜案例拆解與防護藍圖"
+  description: "聚焦生成式 AI 在企業導入時最常見的資安風險，提供案例、檢核點與落地流程。"
+  image: "https://example.com/generative-ai-security/assets/og-generative-ai-security.jpg"
+  url: "https://example.com/generative-ai-security/"
+
+quotes:
+  opening:
+    text: "導入生成式 AI 的速度，永遠不該快過風險可見度。"
+  closing:
+    text: >
+      真正成熟的 AI 安全，不是把工具禁掉，<br>
+      而是讓每一次使用都可被預期、被驗證、被追溯。 
