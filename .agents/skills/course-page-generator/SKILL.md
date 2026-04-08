@@ -208,7 +208,7 @@ git remote get-url origin
 
 取得 `GH_BASE` 後，`seo.image` 和 `seo.url` 的值即為：
 - `seo.url`：`{GH_BASE}/{course-dir}/`
-- `seo.image`：`{GH_BASE}/{course-dir}/assets/og-image.jpg`
+- `seo.image`：`{GH_BASE}/{course-dir}/assets/og-image.jpg`（固定檔名，由 generate-og.mjs 輸出）
 
 若指令失敗（非 git repo、無 remote、非 GitHub），直接在 config 中留空這兩個欄位，並告知使用者需手動填入。
 
