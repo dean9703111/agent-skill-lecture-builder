@@ -3705,10 +3705,6 @@
       <p>很多團隊只評估模型準確度，卻忽略「誰可以輸入什麼、誰可以調用哪些工具、輸出如何審核」。</p>
       <p style="margin-top:.5rem">攻擊者通常打的不是模型本體，而是你整體工作流中最鬆的一環。</p>
     </div>
-        <figure class="content-image">
-      <img src="assets/genai-risk-map.png" alt="生成式 AI 風險地圖示意" loading="lazy">
-      <figcaption>生成式 AI 風險地圖示意</figcaption>
-    </figure>
         <p class="loose-text"><!-- TODO: 建議在此加入圖片：企業 GenAI 風險地圖（資料流、模型、插件、治理），請將圖片放到 assets/ 資料夾 --></p>
       </div>
     </div>
@@ -3794,19 +3790,13 @@
       <li>已建立高風險提問阻擋規則</li>
       <li>已完成紅隊測試（越權查詢、資料拼接、批次探測）</li>
     </ul>
-        <div class="image-text image-text--img-right" style="--img-width:46%">
-      <div class="image-text__img">
-        <img src="assets/rag-access-control.png" alt="RAG 權限切分示意" loading="lazy">
-      </div>
-      <div class="image-text__body">
-        <p>建議把 RAG 流程拆成「召回」與「回答」兩道防線：</p>
-<ul>
-<li>召回前：先檢查使用者是否有權讀取該文件片段</li>
-<li>召回後：再做內容過濾與敏感詞檢測</li>
-<li>回答前：套用回應政策，避免輸出完整敏感內容</li>
-</ul>
-      </div>
-    </div>
+        <p class="loose-text">建議把 RAG 流程拆成「召回」與「回答」兩道防線：</p>
+        <ul class="loose-list">
+      <li>召回前：先檢查使用者是否有權讀取該文件片段</li>
+      <li>召回後：再做內容過濾與敏感詞檢測</li>
+      <li>回答前：套用回應政策，避免輸出完整敏感內容</li>
+    </ul>
+        <p class="loose-text">[/image-text]</p>
         <p class="loose-text"><!-- TODO: 建議在此加入圖片：RAG 權限切分架構圖，請將圖片放到 assets/ 資料夾 --></p>
       </div>
     </div>
